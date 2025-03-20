@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "kEL/+oTKPkdQmLBnT9KP8rN1kLiGgt4qBpl8DN9Qp6A=",
+  "Source": "PokerTracker.API",
+  "BasePath": "_content/PokerTracker.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
