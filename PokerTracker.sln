@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerTracker.API", "PokerTracker.API\PokerTracker.API.csproj", "{CE9E8E8F-56EC-4C34-8020-C6C7883D7BCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerTracker.Domain", "PokerTracker.Domain\PokerTracker.Domain.csproj", "{532A9452-263D-451B-B741-CD389AAAA5D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerTracker.Infrastructure", "PokerTracker.Infrastructure\PokerTracker.Infrastructure.csproj", "{3E3A2CE8-9F94-4DD4-8EE6-2449CA30C996}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerTracker.Application", "PokerTracker.Application\PokerTracker.Application.csproj", "{7F3182E1-C3CE-4395-8050-29D3A2D01582}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE9E8E8F-56EC-4C34-8020-C6C7883D7BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE9E8E8F-56EC-4C34-8020-C6C7883D7BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE9E8E8F-56EC-4C34-8020-C6C7883D7BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE9E8E8F-56EC-4C34-8020-C6C7883D7BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{532A9452-263D-451B-B741-CD389AAAA5D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{532A9452-263D-451B-B741-CD389AAAA5D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{532A9452-263D-451B-B741-CD389AAAA5D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{532A9452-263D-451B-B741-CD389AAAA5D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E3A2CE8-9F94-4DD4-8EE6-2449CA30C996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E3A2CE8-9F94-4DD4-8EE6-2449CA30C996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E3A2CE8-9F94-4DD4-8EE6-2449CA30C996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E3A2CE8-9F94-4DD4-8EE6-2449CA30C996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F3182E1-C3CE-4395-8050-29D3A2D01582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F3182E1-C3CE-4395-8050-29D3A2D01582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F3182E1-C3CE-4395-8050-29D3A2D01582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F3182E1-C3CE-4395-8050-29D3A2D01582}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
