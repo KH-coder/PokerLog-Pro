@@ -1,0 +1,140 @@
+/* Card Picker Styles */
+.card-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  margin-bottom: 16px;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+.card-row {
+  display: flex;
+  gap: 1px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.card-button {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+  margin: 1px;
+  font-size: 12px;
+  border-radius: 4px;
+  background-color: #ffffff;
+}
+
+.card-button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.card-red {
+  color: #dc2626;
+}
+
+.card-black {
+  color: #000000;
+}
+
+.card-picker-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.75);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 50;
+}
+
+.card-picker-container {
+  background-color: #111827;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  width: 95%;
+  max-width: 320px;
+  max-height: 90vh;
+  overflow-y: auto;
+}
+
+.card-picker-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.card-picker-title {
+  color: white;
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.card-picker-close {
+  color: white;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.card-picker-close:hover {
+  color: #d1d5db;
+}
+
+.suit-selector {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.suit-button {
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  color: #000000;
+  font-size: 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.suit-button:nth-child(2), .suit-button:nth-child(4) {
+  color: #dc2626;
+}
+
+.card-picker-actions {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1rem;
+}
+
+.card-picker-button {
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  border: none;
+  cursor: pointer;
+}
+
+.card-picker-cancel {
+  background-color: #4b5563;
+  color: white;
+}
+
+.card-picker-confirm {
+  background-color: #2563eb;
+  color: white;
+}

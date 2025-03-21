@@ -1483,14 +1483,7 @@
           "System.Text.Encoding": "4.3.0"
         }
       },
-      "System.Text.Json/9.0.3": {
-        "runtime": {
-          "lib/net9.0/System.Text.Json.dll": {
-            "assemblyVersion": "9.0.0.0",
-            "fileVersion": "9.0.325.11113"
-          }
-        }
-      },
+      "System.Text.Json/9.0.3": {},
       "System.Text.RegularExpressions/4.3.0": {
         "dependencies": {
           "System.Runtime": "4.3.0"
@@ -1570,7 +1563,7 @@
         },
         "runtime": {
           "PokerTracker.Application.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -1578,7 +1571,7 @@
       "PokerTracker.Domain/1.0.0": {
         "runtime": {
           "PokerTracker.Domain.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -1592,7 +1585,7 @@
         },
         "runtime": {
           "PokerTracker.Infrastructure.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }

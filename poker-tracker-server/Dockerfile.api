@@ -1,0 +1,30 @@
+FROM mcr.microsoft.com/dotnet/aspnet:9.0 AS base
+WORKDIR /app
+EXPOSE 80
+
+FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
+WORKDIR /src
+
+# Copy csproj files and restore dependencies
+COPY ["PokerTracker.API/PokerTracker.API.csproj", "PokerTracker.API/"]
+COPY ["PokerTracker.Application/PokerTracker.Application.csproj", "PokerTracker.Application/"]
+COPY ["PokerTracker.Domain/PokerTracker.Domain.csproj", "PokerTracker.Domain/"]
+COPY ["PokerTracker.Infrastructure/PokerTracker.Infrastructure.csproj", "PokerTracker.Infrastructure/"]
+COPY ["PokerTracker.sln", "."]
+
+RUN dotnet restore "PokerTracker.sln"
+
+# Copy all source code and build the application
+COPY . .
+WORKDIR "/src"
+RUN dotnet build "PokerTracker.sln" -c Release -o /app/build
+
+# Publish the application
+FROM build AS publish
+RUN dotnet publish "PokerTracker.API/PokerTracker.API.csproj" -c Release -o /app/publish
+
+# Final stage/image
+FROM base AS final
+WORKDIR /app
+COPY --from=publish /app/publish .
+ENTRYPOINT ["dotnet", "PokerTracker.API.dll"]

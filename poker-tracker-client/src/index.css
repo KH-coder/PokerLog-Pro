@@ -1,4 +1,3 @@
-
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -36,7 +35,8 @@ h1 {
   line-height: 1.1;
 }
 
-button {
+/* Add a more specific selector to avoid conflicts with Tailwind buttons */
+button:not([class*="bg-"]):not([class*="text-"]) {
   border-radius: 8px;
   border: 1px solid transparent;
   padding: 0.6em 1.2em;
@@ -47,11 +47,11 @@ button {
   cursor: pointer;
   transition: border-color 0.25s;
 }
-button:hover {
+button:not([class*="bg-"]):not([class*="text-"]):hover {
   border-color: #646cff;
 }
-button:focus,
-button:focus-visible {
+button:not([class*="bg-"]):not([class*="text-"]):focus,
+button:not([class*="bg-"]):not([class*="text-"]):focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
@@ -63,7 +63,7 @@ button:focus-visible {
   a:hover {
     color: #747bff;
   }
-  button {
+  button:not([class*="bg-"]):not([class*="text-"]) {
     background-color: #f9f9f9;
   }
 }

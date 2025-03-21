@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\peterwong.BUNKEE\\.nuget\\packages\\": {}
+    "C:\\Users\\administrator.BUNKEE\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\PokerTracker.Domain\\PokerTracker.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\poker-tracker-server\\PokerTracker.Domain\\PokerTracker.Domain.csproj",
       "projectName": "PokerTracker.Domain",
-      "projectPath": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\PokerTracker.Domain\\PokerTracker.Domain.csproj",
-      "packagesPath": "C:\\Users\\peterwong.BUNKEE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\PokerTracker.Domain\\obj\\",
+      "projectPath": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\poker-tracker-server\\PokerTracker.Domain\\PokerTracker.Domain.csproj",
+      "packagesPath": "C:\\Users\\administrator.BUNKEE\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\poker-tracker-server\\PokerTracker.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\peterwong.BUNKEE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\administrator.BUNKEE\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -44,9 +44,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

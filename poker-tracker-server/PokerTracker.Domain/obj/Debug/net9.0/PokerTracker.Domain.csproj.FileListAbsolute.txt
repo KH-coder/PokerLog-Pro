@@ -10,3 +10,15 @@ C:\Users\peterwong.BUNKEE\Documents\PokerLog-Pro\PokerTracker.Domain\obj\Debug\n
 C:\Users\peterwong.BUNKEE\Documents\PokerLog-Pro\PokerTracker.Domain\obj\Debug\net9.0\refint\PokerTracker.Domain.dll
 C:\Users\peterwong.BUNKEE\Documents\PokerLog-Pro\PokerTracker.Domain\obj\Debug\net9.0\PokerTracker.Domain.pdb
 C:\Users\peterwong.BUNKEE\Documents\PokerLog-Pro\PokerTracker.Domain\obj\Debug\net9.0\ref\PokerTracker.Domain.dll
+C:\Users\peterwong.BUNKEE\Documents\PokerLog-Pro\poker-tracker-server\PokerTracker.Domain\bin\Debug\net9.0\PokerTracker.Domain.deps.json
+C:\Users\peterwong.BUNKEE\Documents\PokerLog-Pro\poker-tracker-server\PokerTracker.Domain\bin\Debug\net9.0\PokerTracker.Domain.dll
+C:\Users\peterwong.BUNKEE\Documents\PokerLog-Pro\poker-tracker-server\PokerTracker.Domain\bin\Debug\net9.0\PokerTracker.Domain.pdb
+C:\Users\peterwong.BUNKEE\Documents\PokerLog-Pro\poker-tracker-server\PokerTracker.Domain\obj\Debug\net9.0\PokerTracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peterwong.BUNKEE\Documents\PokerLog-Pro\poker-tracker-server\PokerTracker.Domain\obj\Debug\net9.0\PokerTracker.Domain.AssemblyInfoInputs.cache
+C:\Users\peterwong.BUNKEE\Documents\PokerLog-Pro\poker-tracker-server\PokerTracker.Domain\obj\Debug\net9.0\PokerTracker.Domain.AssemblyInfo.cs
+C:\Users\peterwong.BUNKEE\Documents\PokerLog-Pro\poker-tracker-server\PokerTracker.Domain\obj\Debug\net9.0\PokerTracker.Domain.csproj.CoreCompileInputs.cache
+C:\Users\peterwong.BUNKEE\Documents\PokerLog-Pro\poker-tracker-server\PokerTracker.Domain\obj\Debug\net9.0\PokerTracker.Domain.sourcelink.json
+C:\Users\peterwong.BUNKEE\Documents\PokerLog-Pro\poker-tracker-server\PokerTracker.Domain\obj\Debug\net9.0\PokerTracker.Domain.dll
+C:\Users\peterwong.BUNKEE\Documents\PokerLog-Pro\poker-tracker-server\PokerTracker.Domain\obj\Debug\net9.0\refint\PokerTracker.Domain.dll
+C:\Users\peterwong.BUNKEE\Documents\PokerLog-Pro\poker-tracker-server\PokerTracker.Domain\obj\Debug\net9.0\PokerTracker.Domain.pdb
+C:\Users\peterwong.BUNKEE\Documents\PokerLog-Pro\poker-tracker-server\PokerTracker.Domain\obj\Debug\net9.0\ref\PokerTracker.Domain.dll

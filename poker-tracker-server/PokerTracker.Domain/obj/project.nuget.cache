@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l72L9bnDjIg=",
+  "dgSpecHash": "JY/ac/2AZRI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\PokerTracker.Domain\\PokerTracker.Domain.csproj",
+  "projectFilePath": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\poker-tracker-server\\PokerTracker.Domain\\PokerTracker.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

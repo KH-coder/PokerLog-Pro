@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\PokerTracker.Application\\PokerTracker.Application.csproj": {}
+    "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\poker-tracker-server\\PokerTracker.Application\\PokerTracker.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\PokerTracker.Application\\PokerTracker.Application.csproj": {
+    "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\poker-tracker-server\\PokerTracker.Application\\PokerTracker.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\PokerTracker.Application\\PokerTracker.Application.csproj",
+        "projectUniqueName": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\poker-tracker-server\\PokerTracker.Application\\PokerTracker.Application.csproj",
         "projectName": "PokerTracker.Application",
-        "projectPath": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\PokerTracker.Application\\PokerTracker.Application.csproj",
-        "packagesPath": "C:\\Users\\peterwong.BUNKEE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\PokerTracker.Application\\obj\\",
+        "projectPath": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\poker-tracker-server\\PokerTracker.Application\\PokerTracker.Application.csproj",
+        "packagesPath": "C:\\Users\\administrator.BUNKEE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\poker-tracker-server\\PokerTracker.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\peterwong.BUNKEE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\administrator.BUNKEE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\PokerTracker.Domain\\PokerTracker.Domain.csproj": {
-                "projectPath": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\PokerTracker.Domain\\PokerTracker.Domain.csproj"
+              "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\poker-tracker-server\\PokerTracker.Domain\\PokerTracker.Domain.csproj": {
+                "projectPath": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\poker-tracker-server\\PokerTracker.Domain\\PokerTracker.Domain.csproj"
               },
-              "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\PokerTracker.Infrastructure\\PokerTracker.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\PokerTracker.Infrastructure\\PokerTracker.Infrastructure.csproj"
+              "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\poker-tracker-server\\PokerTracker.Infrastructure\\PokerTracker.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\poker-tracker-server\\PokerTracker.Infrastructure\\PokerTracker.Infrastructure.csproj"
               }
             }
           }
@@ -45,9 +45,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -86,21 +86,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\PokerTracker.Domain\\PokerTracker.Domain.csproj": {
+    "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\poker-tracker-server\\PokerTracker.Domain\\PokerTracker.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\PokerTracker.Domain\\PokerTracker.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\poker-tracker-server\\PokerTracker.Domain\\PokerTracker.Domain.csproj",
         "projectName": "PokerTracker.Domain",
-        "projectPath": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\PokerTracker.Domain\\PokerTracker.Domain.csproj",
-        "packagesPath": "C:\\Users\\peterwong.BUNKEE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\PokerTracker.Domain\\obj\\",
+        "projectPath": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\poker-tracker-server\\PokerTracker.Domain\\PokerTracker.Domain.csproj",
+        "packagesPath": "C:\\Users\\administrator.BUNKEE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\poker-tracker-server\\PokerTracker.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\peterwong.BUNKEE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\administrator.BUNKEE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -124,9 +124,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -147,21 +147,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\PokerTracker.Infrastructure\\PokerTracker.Infrastructure.csproj": {
+    "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\poker-tracker-server\\PokerTracker.Infrastructure\\PokerTracker.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\PokerTracker.Infrastructure\\PokerTracker.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\poker-tracker-server\\PokerTracker.Infrastructure\\PokerTracker.Infrastructure.csproj",
         "projectName": "PokerTracker.Infrastructure",
-        "projectPath": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\PokerTracker.Infrastructure\\PokerTracker.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\peterwong.BUNKEE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\PokerTracker.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\poker-tracker-server\\PokerTracker.Infrastructure\\PokerTracker.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\administrator.BUNKEE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\poker-tracker-server\\PokerTracker.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\peterwong.BUNKEE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\administrator.BUNKEE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -175,8 +175,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\PokerTracker.Domain\\PokerTracker.Domain.csproj": {
-                "projectPath": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\PokerTracker.Domain\\PokerTracker.Domain.csproj"
+              "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\poker-tracker-server\\PokerTracker.Domain\\PokerTracker.Domain.csproj": {
+                "projectPath": "C:\\Users\\peterwong.BUNKEE\\Documents\\PokerLog-Pro\\poker-tracker-server\\PokerTracker.Domain\\PokerTracker.Domain.csproj"
               }
             }
           }
@@ -189,9 +189,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -226,7 +226,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
